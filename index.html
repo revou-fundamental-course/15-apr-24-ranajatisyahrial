@@ -3,28 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mini Project Revou</title>
+  <title>Mini Project RevoU</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="container">
-    <h1>KALKULATOR KONVERSI SUHU</h2>
+    <h1>KALKULATOR KONVERSI SUHU</h1>
     <input type="number" id="temperature" placeholder="Masukkan suhu">
     <select id="fromUnit">
       <option value="celcius">Celcius</option>
       <option value="fahrenheit">Fahrenheit</option>
       <option value="kelvin">Kelvin</option>
     </select>
-
     <select id="toUnit">
       <option value="fahrenheit">Fahrenheit</option>
       <option value="celcius">Celcius</option>
       <option value="kelvin">Kelvin</option>
     </select>
-
     <button onclick="convert()">Convert</button>
     <div class="resultbox">
-  
       <p id="results"></p>
       <p id="formula"></p>
     </div>
