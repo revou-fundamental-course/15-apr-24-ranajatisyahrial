@@ -1,4 +1,4 @@
-# KALKULATOR KONVERSI SUHU
+## KALKULATOR KONVERSI SUHU
 
 ![IMG_20240422_134949](https://github.com/revou-fundamental-course/15-apr-24-ranajatisyahrial/assets/53525226/af3eb52f-fa6c-41b2-a4bb-12c2adc60958)
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -29,8 +29,8 @@ Dibuat menggunakan :
 ## How To Use
 
 1. Masukan suhu yang akan di konversi.
-1. Pilih skala suhu.
-1. Tekan tombol Covert.
+1. Pilih skala suhu yang akan digunakan.
+1. Tekan tombol Convert.
 
 ---
 
