@@ -7,7 +7,7 @@ function convert() {
   var convertedTemp, formulaText;
 
   if (isNaN(temperature)) {
-    alert("Kolom input hanya boleh diisi dengan angka.");
+    alert("Kolom input hanya boleh di isi dengan angka.");
     return;
   }
 
